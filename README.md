@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhishekP1234
-- 👀 I’m interested in ...Python Coding
-- 🌱 I’m currently learning ... Data Science In Python And Java
+- 👀 I’m interested in ...Database
+- 🌱 I’m currently learning ... SQL and JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... patilabhishekeknath@gmail.com
 
